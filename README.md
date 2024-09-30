@@ -24,7 +24,7 @@
 我真的很高興你們這群學生因為我的教導，能夠用更正向的態度來看待一切。雖然這樣不能保證未來的道路一帆風順，但至少我們能以良好的心態去接受與享受人生。
 
 ### 系統設計實驗室
-![路線圖](/Users/csld/Documents/NTU/NTU_assets/syslab.png)
+![路線圖](https://drive.google.com/file/d/1M9DTXNbphHPwscEfckS204PqphZ6eqg7/view?usp=sharing)
 
 ## Other
 陸陸續續會將資料一個一個push上來，如果有錯誤或有建議也歡迎指教
