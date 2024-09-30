@@ -3,6 +3,11 @@
 
 我是B12505047的陳澤諒，這個 repo 目的是希望學弟妹可以因為這些資料，能在學習過程中節省時間，進而有更多精力投入到深入的研究與發展，讓自己成為更優秀的人。
 
+## Google Drive
+考慮到閱讀性跟可塑性，這邊附上雲端硬碟連結
+
+> link: [NTU_assets](https://drive.google.com/drive/folders/1m-GGae5xxfSUHeglKmgJ1UD94Zblr4XS?usp=sharing) 
+
 ## Resources
 - 某學長公開筆記：[
 痞客邦-Josephood7的名片頁](https://www.pixnet.net/pcard/josephood7)
