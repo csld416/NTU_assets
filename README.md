@@ -3,6 +3,12 @@
 
 我是B12505047的陳澤諒，這個 repo 目的是希望學弟妹可以因為這些資料，能在學習過程中節省時間，進而有更多精力投入到深入的研究與發展，讓自己成為更優秀的人。
 
+## Resources
+- 某學長公開筆記：[
+痞客邦-Josephood7的名片頁](https://www.pixnet.net/pcard/josephood7)
+- 微積分考古題：[微積分統一教學網](https://www.math.ntu.edu.tw/~calc/cl_n_34455.html) 
+- 積分計算機：[Integral Calculator](https://www.integral-calculator.com/)
+
 ## 來自 陳彥廷老師的訊息
 > 我認為來到台大，應該學習欣賞別人，但更重要的是要學會「欣賞自己」。如果可以，我希望你們能將這些思考與其他人分享，讓大家一起進步，讓這個社會變得更好。
 >
