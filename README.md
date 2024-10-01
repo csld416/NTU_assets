@@ -32,6 +32,6 @@
 Email: b12505047@ntu.edu.tw
 <br>
 Instagram: [chris_14161](https://www.instagram.com/chris_14161/)
-<br><br>
+<br>
 ### Co-editor:
 B12505014 葉哲綸 Email: yeh.jaron@gmail.com
